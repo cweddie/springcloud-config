@@ -1,4 +1,4 @@
 server:
   port: 9000
 env:
-  prod1234567890
+  prod123
